@@ -27,7 +27,7 @@
     "mongoose-timestamp": "*",
     "morgan": "^1.9.1",
     "multer": "^1.4.1",
-    "multer-gridfs-storage": "^3.2.3",
+    "multer-gridfs-storage": "*",
     "nodemailer": "^5.1.1",
     "path": "^0.12.7"
   },
